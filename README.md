@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mónica Sainer!</h1>
 <h3 align="center">A junior data scientist from Spain</h3>
 
-- 💬 Ask me about **data science, data analysis, economics,and finance**
+- 💬 Ask me about **data science, data analysis, economics, psychology, and finance**
 
-- 📫 How to reach me **monicasainerboto@gmail.com**
+- 📫 How to reach me: **monicasainerboto@gmail.com**
 
-- ⚡ Fun fact **I was a professional handball player**
+- ⚡ Fun fact: **I was a professional handball player**
+
+- 🗣 Languages I speak: **Spanish and English**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
